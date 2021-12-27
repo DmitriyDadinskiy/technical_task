@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">technical task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_reason">Отказ, не заказывали</string>
+    <string name="refusal">Отказ, брак</string>
 </resources>
